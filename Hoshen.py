@@ -1,6 +1,7 @@
 import numpy as np
 import matplotlib.pyplot as plt
 
+
 # parametros de entrada
 m = 80  # filas
 n = 80  # columnas
